@@ -1,2 +1,2 @@
-# AMWebsite
-Website for educational purposes
+# TestWebsite
+Test website for educational/fun purposes
